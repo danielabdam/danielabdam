@@ -4,8 +4,8 @@ Sou desenvolvedor Iniciante com foco em Python
 
 ### 💫 Um pouco mais sobre mim
 
-- 🌱 Atualmente estou aprendendo sobre sistemas Analise de dados, e banco de dados
-- 💬 Programo em  Python e JavaScript
+- 🌱 Atualmente estou aprendendo sobre Analise de dados, e banco de dados
+- 💬 Programando em Python e JavaScript
 - 📫 Como me encontrar? daniellucas227@gmail.com
 
 ### 👥 Conecte-se comigo
