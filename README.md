@@ -1,1 +1,13 @@
-# Daniel.Abdam
+# Olá 👋, meu nome é Daniel
+
+Sou desenvolvedor Iniciante com foco em Python
+
+### 💫 Um pouco mais sobre mim
+
+- 🌱 Atualmente estou aprendendo sobre sistemas Analise de dados, e banco de dados
+- 💬 Programo em  Python e JavaScript
+- 📫 Como me encontrar? daniellucas227@gmail.com
+
+### 👥 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/daniel-lucas-227ts/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
