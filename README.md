@@ -15,7 +15,7 @@ Sou desenvolvedor Iniciante com foco em Python
 
 
 <div>
-    <a href="https://github.com/danielabdam>
+    <a href="https://github.com/danielabdam">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielabdam&layout=compact&langs_count=7&theme=tokyonight />
 
 <div>
