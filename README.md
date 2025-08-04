@@ -13,8 +13,11 @@ Sou desenvolvedor Iniciante com foco em Python
 
 <a href="https://www.linkedin.com/in/daniel-lucas-227ts/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
+
+<div>
+    <a href="https://github.com/danielabdam>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielabdam&layout=compact&langs_count=7&theme=tokyonight />
+
 <div>
   <a href="https://github.com/danielabdam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielabdam&count_private=true&show_icons=true&theme=dark&hide=prs,contribs"/>
-<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workaires&layout=compact&theme=dark"/>
-</div> -->
